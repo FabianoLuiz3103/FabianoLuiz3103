@@ -69,5 +69,4 @@ Desenvolvedor Back-end
 
 
 
-
-![Snake animation](https://github.com/FabianoLuiz3103/FabianoLuiz3103/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/FabianoLuiz3103/FabianoLuiz3103/blob/output/github-contribution-grid-snake.svg)
