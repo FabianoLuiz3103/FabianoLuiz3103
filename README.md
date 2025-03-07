@@ -16,7 +16,7 @@ Desenvolvedor Back-end
 ### 🖥️ Linguagens de Programação  
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" height="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" height="60px">
         &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" height="50px">
         &nbsp;&nbsp;
@@ -56,25 +56,25 @@ Desenvolvedor Back-end
 
 ### 🛠️ Ferramentas  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="45px">
         &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" height="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" height="45px">
         &nbsp;&nbsp;
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" height="50px">
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse"  height="45px">
         &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="Intelij" height="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="Intelij"  height="45px">
         &nbsp;&nbsp;
     <a href="https://docs.github.com/">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="50px">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"  height="45px">
     </a>
 </div>
 <br>
 
 ### 🖥️ Sistemas Operacionais  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="Debian" height="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="Debian" height="45px">
         &nbsp;&nbsp;
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" height="50px">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" height="45px">
 </div>
 
 
@@ -84,9 +84,6 @@ Desenvolvedor Back-end
 ## 📊 Estatísticas do GitHub  
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=FabianoLuiz3103&show_icons=true&include_all_commits=true&theme=blue-green" alt="Anurag's GitHub stats">
-        &nbsp;&nbsp;
-        &nbsp;&nbsp;
-        &nbsp;&nbsp;
         &nbsp;&nbsp;
         &nbsp;&nbsp;
         &nbsp;&nbsp;
