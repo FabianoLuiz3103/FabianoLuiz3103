@@ -87,12 +87,11 @@ Desenvolvedor Back-end
         &nbsp;&nbsp;
         &nbsp;&nbsp;
         &nbsp;&nbsp;
-        
+        &nbsp;&nbsp;
     <a href="https://github.com/FabianoLuiz3103/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoLuiz3103&layout=pie" alt="Top Languages">
     </a>
 </div>
-
 
 
 <picture>
